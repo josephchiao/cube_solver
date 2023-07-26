@@ -1,0 +1,2 @@
+// cube.rs will handle everything to do with an individual cube (likely achieved via classes)
+// the class within cube.rs should be able to take the dimension of a cube (2, 3, 4 etc.) to generate and control a cube state in code

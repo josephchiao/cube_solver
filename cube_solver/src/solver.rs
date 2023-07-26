@@ -1,0 +1,2 @@
+// solver.rs will make use of generator.rs, cube.rs and the A* search algorithm in order to solve a 3x3 cube from any scramble
+// could create solver.rs with a future goal of adding more possible dimensions of cubes for solving, in mind
